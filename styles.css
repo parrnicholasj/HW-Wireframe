@@ -32,6 +32,8 @@ section
 
 background: brown;
 float: left;
+width: 50%;
+padding: 20px;
 
 }
 
@@ -39,7 +41,9 @@ article
 {
 
 background: green;
-float: left;
+
+padding: 50px;
+width: 50%;
 
 }
 
